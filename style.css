@@ -29,12 +29,6 @@ a {
   border-bottom: 0px;
 }
 
-/* .active {
-  background-color: gray;
-  color: white !important;
-  border-radius: 12px;
-} */
-
 a:hover {
   color: white;
 }

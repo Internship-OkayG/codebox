@@ -1,11 +1,11 @@
-const { Splitpanes, Pane } = splitpanes
+const { Splitpanes, Pane } = splitpanes;
 
 new Vue({
-  el: '#app',
-  components: { Splitpanes, Pane },
-  data() {
-    return {
-      darkTheme: true
-    }
-  }
-})
+	el: '#app',
+	components: { Splitpanes, Pane },
+	data() {
+		return {
+			darkTheme: true,
+		};
+	},
+});
